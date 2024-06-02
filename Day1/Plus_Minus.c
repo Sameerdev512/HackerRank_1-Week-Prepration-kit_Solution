@@ -58,7 +58,7 @@ int main()
 
         *(arr + i) = arr_item;
     }
-
+    
     plusMinus(n, arr);
 
     return 0;
